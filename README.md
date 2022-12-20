@@ -71,7 +71,10 @@
   - Y asi podemos empezar con nuestro registro, modificacion, y eliminar nuestro usuario. 
 
 
-
+ # CONCLUSIONES
+ 
+   - Podria decir, que es uno de los proyectos los cuales permiten pensar y desccubrir nuevos metodos para realizar un CRUD de estos, 
+     funciona de diferentes maneras, sin embargo esto es una base simple para entender el funcionamiento de un CRUD.
   
 
 
