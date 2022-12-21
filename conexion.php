@@ -1,7 +1,7 @@
 <?php
 	$conexion= new mysqli("localhost", "root", "", "vetsoftware");
 	//Comprobar conexion
-	if(mysqli_connect_errno())
+	if(mysqli_connect_error())
 	{
 		printf("Fallo la conexion");
 	}
