@@ -2,7 +2,7 @@
 
 # Descripción del Proyecto.
 
-- El siguiente proyecto se basa en un CRUD en php, para registrar un usuario. A continuacion se va a describir el paso a paso
+- El siguiente proyecto se basa en un CRUD en php, para registrar un usuario. A continuación se va a describir el paso a paso
   para descargarlo y ejecutarlo.
   
   
@@ -22,13 +22,13 @@
 
   Aqui tenemos que nombrar una tabla en este caso la llamamos:
   
-  - usuarios, y el numero de columnas sera de 10.
+  - usuarios, y el número de columnas sera de 10.
   
-  Al dar continiar nos aparece lo siguiente: 
+  Al dar continuar nos aparece lo siguiente: 
   
   ![image](https://user-images.githubusercontent.com/95291737/208745860-a568a89d-22fe-4fa9-aefb-400090f4dae1.png)
 
-  - En esta seccion vamos a especificar cada campo de la siguiente manera: 
+  - En esta sección vamos a especificar cada campo de la siguiente manera: 
   
   ![image](https://user-images.githubusercontent.com/95291737/208746187-7ed54539-4a49-41cf-bd33-34e75addb4f9.png)
  
@@ -38,7 +38,7 @@
 
 # PASO 2
 
- - Despues de tener nuestra base de datos, nos ubicamos en la siguiente dirección en nuestro DISCO LOCAL C:
+ - Después de tener nuestra base de datos, nos ubicamos en la siguiente dirección en nuestro DISCO LOCAL C:
  
   ![image](https://user-images.githubusercontent.com/95291737/208749312-78cfcd40-2a72-4a4e-9efe-76508f30ef3e.png)
   
@@ -56,7 +56,7 @@
  
    ![image](https://user-images.githubusercontent.com/95291737/208750085-e9cc4854-314a-40c9-9efd-986ecd0ae9f8.png)
  
- - Por defecto nos abre el codigo en nuestro visual studio code, y por nombre lleva CRUD-PHP: 
+ - Por defecto nos abre el código en nuestro visual studio code, y por nombre lleva CRUD-PHP: 
   
    ![image](https://user-images.githubusercontent.com/95291737/208750767-f68c4f8e-e6f4-4c46-a98a-09d04519c7d5.png)
    
@@ -68,7 +68,7 @@
   
   ![image](https://user-images.githubusercontent.com/95291737/208751184-df7d5ff8-b232-4a8b-8ca4-cf406be3bf7b.png)
 
-  - Y asi podemos empezar con nuestro registro, modificacion, y eliminar nuestro usuario. 
+  - Y asi podemos empezar con nuestro registro, modificación, y eliminar nuestro usuario. 
 
 
  # CONCLUSIONES
