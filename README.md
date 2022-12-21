@@ -73,8 +73,8 @@
 
  # CONCLUSIONES
  
-   - Podria decir, que es uno de los proyectos los cuales permiten pensar y desccubrir nuevos metodos para realizar un CRUD de estos, 
-     funciona de diferentes maneras, sin embargo esto es una base simple para entender el funcionamiento de un CRUD.
+   - Podría decir, que es uno de los proyectos los cuales permiten pensar y desccubrir nuevos métodos para realizar un CRUD de éstos, 
+     funciona de diferentes maneras, sin embargo, esto es una base simple para entender el funcionamiento de un CRUD.
   
 
 
